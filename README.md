@@ -1,0 +1,2 @@
+# NoneTextResourcePack
+ 全ての文字を非表示にするMinecraft Java版リソースパック
